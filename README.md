@@ -1,2 +1,2 @@
-# ScrappyScraper
+# Scraper
 Website Scraping Tool
