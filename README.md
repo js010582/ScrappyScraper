@@ -1,2 +1,2 @@
-# Scraper - GPU
+# Scraper - Misc
 Website Scraping Tool
