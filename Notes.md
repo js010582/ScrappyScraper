@@ -6,3 +6,5 @@ Experimentation with Selenium
 Built With
 - Python
 - Selenium
+
+pip install selenium
