@@ -1,0 +1,293 @@
+,date,hometeam,score,oppteam
+0,05-08-2022,Crystal Palace,0 - 2,Arsenal
+1,13-08-2022,Arsenal,4 - 2,Leicester
+2,20-08-2022,Bournemouth,0 - 3,Arsenal
+3,27-08-2022,Arsenal,2 - 1,Fulham
+4,31-08-2022,Arsenal,2 - 1,Aston Villa
+5,04-09-2022,Man United,3 - 1,Arsenal
+6,18-09-2022,Brentford,0 - 3,Arsenal
+7,01-10-2022,Arsenal,3 - 1,Tottenham
+8,09-10-2022,Arsenal,3 - 2,Liverpool
+9,16-10-2022,Leeds,0 - 1,Arsenal
+10,23-10-2022,Southampton,1 - 1,Arsenal
+11,30-10-2022,Arsenal,5 - 0,Nott'm Forest
+12,06-11-2022,Chelsea,0 - 1,Arsenal
+13,12-11-2022,Wolves,0 - 2,Arsenal
+14,06-08-2022,Bournemouth,2 - 0,Aston Villa
+15,13-08-2022,Aston Villa,2 - 1,Everton
+16,20-08-2022,Crystal Palace,3 - 1,Aston Villa
+17,28-08-2022,Aston Villa,0 - 1,West Ham
+18,31-08-2022,Arsenal,2 - 1,Aston Villa
+19,03-09-2022,Aston Villa,1 - 1,Man City
+20,16-09-2022,Aston Villa,1 - 0,Southampton
+21,02-10-2022,Leeds,0 - 0,Aston Villa
+22,10-10-2022,Nott'm Forest,1 - 1,Aston Villa
+23,16-10-2022,Aston Villa,0 - 2,Chelsea
+24,20-10-2022,Fulham,3 - 0,Aston Villa
+25,23-10-2022,Aston Villa,4 - 0,Brentford
+26,29-10-2022,Newcastle,4 - 0,Aston Villa
+27,06-11-2022,Aston Villa,3 - 1,Man United
+28,13-11-2022,Brighton,1 - 2,Aston Villa
+29,06-08-2022,Bournemouth,2 - 0,Aston Villa
+30,13-08-2022,Man City,4 - 0,Bournemouth
+31,20-08-2022,Bournemouth,0 - 3,Arsenal
+32,27-08-2022,Liverpool,9 - 0,Bournemouth
+33,31-08-2022,Bournemouth,0 - 0,Wolves
+34,03-09-2022,Nott'm Forest,2 - 3,Bournemouth
+35,17-09-2022,Newcastle,1 - 1,Bournemouth
+36,01-10-2022,Bournemouth,0 - 0,Brentford
+37,08-10-2022,Bournemouth,2 - 1,Leicester
+38,15-10-2022,Fulham,2 - 2,Bournemouth
+39,19-10-2022,Bournemouth,0 - 1,Southampton
+40,24-10-2022,West Ham,2 - 0,Bournemouth
+41,29-10-2022,Bournemouth,2 - 3,Tottenham
+42,05-11-2022,Leeds,4 - 3,Bournemouth
+43,12-11-2022,Bournemouth,3 - 0,Everton
+44,07-08-2022,Leicester,2 - 2,Brentford
+45,13-08-2022,Brentford,4 - 0,Man United
+46,20-08-2022,Fulham,3 - 2,Brentford
+47,27-08-2022,Brentford,1 - 1,Everton
+48,30-08-2022,Crystal Palace,1 - 1,Brentford
+49,03-09-2022,Brentford,5 - 2,Leeds
+50,18-09-2022,Brentford,0 - 3,Arsenal
+51,01-10-2022,Bournemouth,0 - 0,Brentford
+52,08-10-2022,Newcastle,5 - 1,Brentford
+53,14-10-2022,Brentford,2 - 0,Brighton
+54,19-10-2022,Brentford,0 - 0,Chelsea
+55,23-10-2022,Aston Villa,4 - 0,Brentford
+56,29-10-2022,Brentford,1 - 1,Wolves
+57,05-11-2022,Nott'm Forest,2 - 2,Brentford
+58,12-11-2022,Man City,1 - 2,Brentford
+59,07-08-2022,Man United,1 - 2,Brighton
+60,13-08-2022,Brighton,0 - 0,Newcastle
+61,21-08-2022,West Ham,0 - 2,Brighton
+62,27-08-2022,Brighton,1 - 0,Leeds
+63,30-08-2022,Fulham,2 - 1,Brighton
+64,04-09-2022,Brighton,5 - 2,Leicester
+65,01-10-2022,Liverpool,3 - 3,Brighton
+66,08-10-2022,Brighton,0 - 1,Tottenham
+67,14-10-2022,Brentford,2 - 0,Brighton
+68,18-10-2022,Brighton,0 - 0,Nott'm Forest
+69,22-10-2022,Man City,3 - 1,Brighton
+70,29-10-2022,Brighton,4 - 1,Chelsea
+71,05-11-2022,Wolves,2 - 3,Brighton
+72,13-11-2022,Brighton,1 - 2,Aston Villa
+73,06-08-2022,Everton,0 - 1,Chelsea
+74,14-08-2022,Chelsea,2 - 2,Tottenham
+75,21-08-2022,Leeds,3 - 0,Chelsea
+76,27-08-2022,Chelsea,2 - 1,Leicester
+77,30-08-2022,Southampton,2 - 1,Chelsea
+78,03-09-2022,Chelsea,2 - 1,West Ham
+79,01-10-2022,Crystal Palace,1 - 2,Chelsea
+80,08-10-2022,Chelsea,3 - 0,Wolves
+81,16-10-2022,Aston Villa,0 - 2,Chelsea
+82,19-10-2022,Brentford,0 - 0,Chelsea
+83,22-10-2022,Chelsea,1 - 1,Man United
+84,29-10-2022,Brighton,4 - 1,Chelsea
+85,06-11-2022,Chelsea,0 - 1,Arsenal
+86,12-11-2022,Newcastle,1 - 0,Chelsea
+87,05-08-2022,Crystal Palace,0 - 2,Arsenal
+88,15-08-2022,Liverpool,1 - 1,Crystal Palace
+89,20-08-2022,Crystal Palace,3 - 1,Aston Villa
+90,27-08-2022,Man City,4 - 2,Crystal Palace
+91,30-08-2022,Crystal Palace,1 - 1,Brentford
+92,03-09-2022,Newcastle,0 - 0,Crystal Palace
+93,01-10-2022,Crystal Palace,1 - 2,Chelsea
+94,09-10-2022,Crystal Palace,2 - 1,Leeds
+95,15-10-2022,Leicester,0 - 0,Crystal Palace
+96,18-10-2022,Crystal Palace,2 - 1,Wolves
+97,22-10-2022,Everton,3 - 0,Crystal Palace
+98,29-10-2022,Crystal Palace,1 - 0,Southampton
+99,06-11-2022,West Ham,1 - 2,Crystal Palace
+100,12-11-2022,Nott'm Forest,1 - 0,Crystal Palace
+101,06-08-2022,Everton,0 - 1,Chelsea
+102,13-08-2022,Aston Villa,2 - 1,Everton
+103,20-08-2022,Everton,1 - 1,Nott'm Forest
+104,27-08-2022,Brentford,1 - 1,Everton
+105,30-08-2022,Leeds,1 - 1,Everton
+106,03-09-2022,Everton,0 - 0,Liverpool
+107,18-09-2022,Everton,1 - 0,West Ham
+108,01-10-2022,Southampton,1 - 2,Everton
+109,09-10-2022,Everton,1 - 2,Man United
+110,15-10-2022,Tottenham,2 - 0,Everton
+111,19-10-2022,Newcastle,1 - 0,Everton
+112,22-10-2022,Everton,3 - 0,Crystal Palace
+113,29-10-2022,Fulham,0 - 0,Everton
+114,05-11-2022,Everton,0 - 2,Leicester
+115,12-11-2022,Bournemouth,3 - 0,Everton
+116,06-08-2022,Fulham,2 - 2,Liverpool
+117,13-08-2022,Wolves,0 - 0,Fulham
+118,20-08-2022,Fulham,3 - 2,Brentford
+119,27-08-2022,Arsenal,2 - 1,Fulham
+120,30-08-2022,Fulham,2 - 1,Brighton
+121,03-09-2022,Tottenham,2 - 1,Fulham
+122,16-09-2022,Nott'm Forest,2 - 3,Fulham
+123,01-10-2022,Fulham,1 - 4,Newcastle
+124,09-10-2022,West Ham,3 - 1,Fulham
+125,15-10-2022,Fulham,2 - 2,Bournemouth
+126,20-10-2022,Fulham,3 - 0,Aston Villa
+127,23-10-2022,Leeds,2 - 3,Fulham
+128,29-10-2022,Fulham,0 - 0,Everton
+129,05-11-2022,Man City,2 - 1,Fulham
+130,13-11-2022,Fulham,1 - 2,Man United
+131,06-08-2022,Leeds,2 - 1,Wolves
+132,13-08-2022,Southampton,2 - 2,Leeds
+133,21-08-2022,Leeds,3 - 0,Chelsea
+134,27-08-2022,Brighton,1 - 0,Leeds
+135,30-08-2022,Leeds,1 - 1,Everton
+136,03-09-2022,Brentford,5 - 2,Leeds
+137,02-10-2022,Leeds,0 - 0,Aston Villa
+138,09-10-2022,Crystal Palace,2 - 1,Leeds
+139,16-10-2022,Leeds,0 - 1,Arsenal
+140,20-10-2022,Leicester,2 - 0,Leeds
+141,23-10-2022,Leeds,2 - 3,Fulham
+142,29-10-2022,Liverpool,1 - 2,Leeds
+143,05-11-2022,Leeds,4 - 3,Bournemouth
+144,12-11-2022,Tottenham,4 - 3,Leeds
+145,07-08-2022,Leicester,2 - 2,Brentford
+146,13-08-2022,Arsenal,4 - 2,Leicester
+147,20-08-2022,Leicester,1 - 2,Southampton
+148,27-08-2022,Chelsea,2 - 1,Leicester
+149,01-09-2022,Leicester,0 - 1,Man United
+150,04-09-2022,Brighton,5 - 2,Leicester
+151,17-09-2022,Tottenham,6 - 2,Leicester
+152,03-10-2022,Leicester,4 - 0,Nott'm Forest
+153,08-10-2022,Bournemouth,2 - 1,Leicester
+154,15-10-2022,Leicester,0 - 0,Crystal Palace
+155,20-10-2022,Leicester,2 - 0,Leeds
+156,23-10-2022,Wolves,0 - 4,Leicester
+157,29-10-2022,Leicester,0 - 1,Man City
+158,05-11-2022,Everton,0 - 2,Leicester
+159,12-11-2022,West Ham,0 - 2,Leicester
+160,06-08-2022,Fulham,2 - 2,Liverpool
+161,15-08-2022,Liverpool,1 - 1,Crystal Palace
+162,22-08-2022,Man United,2 - 1,Liverpool
+163,27-08-2022,Liverpool,9 - 0,Bournemouth
+164,31-08-2022,Liverpool,2 - 1,Newcastle
+165,03-09-2022,Everton,0 - 0,Liverpool
+166,01-10-2022,Liverpool,3 - 3,Brighton
+167,09-10-2022,Arsenal,3 - 2,Liverpool
+168,16-10-2022,Liverpool,1 - 0,Man City
+169,19-10-2022,Liverpool,1 - 0,West Ham
+170,22-10-2022,Nott'm Forest,1 - 0,Liverpool
+171,29-10-2022,Liverpool,1 - 2,Leeds
+172,06-11-2022,Tottenham,1 - 2,Liverpool
+173,12-11-2022,Liverpool,3 - 1,Southampton
+174,07-08-2022,West Ham,0 - 2,Man City
+175,13-08-2022,Man City,4 - 0,Bournemouth
+176,21-08-2022,Newcastle,3 - 3,Man City
+177,27-08-2022,Man City,4 - 2,Crystal Palace
+178,31-08-2022,Man City,6 - 0,Nott'm Forest
+179,03-09-2022,Aston Villa,1 - 1,Man City
+180,17-09-2022,Wolves,0 - 3,Man City
+181,02-10-2022,Man City,6 - 3,Man United
+182,08-10-2022,Man City,4 - 0,Southampton
+183,16-10-2022,Liverpool,1 - 0,Man City
+184,22-10-2022,Man City,3 - 1,Brighton
+185,29-10-2022,Leicester,0 - 1,Man City
+186,05-11-2022,Man City,2 - 1,Fulham
+187,12-11-2022,Man City,1 - 2,Brentford
+188,07-08-2022,Man United,1 - 2,Brighton
+189,13-08-2022,Brentford,4 - 0,Man United
+190,22-08-2022,Man United,2 - 1,Liverpool
+191,27-08-2022,Southampton,0 - 1,Man United
+192,01-09-2022,Leicester,0 - 1,Man United
+193,04-09-2022,Man United,3 - 1,Arsenal
+194,02-10-2022,Man City,6 - 3,Man United
+195,09-10-2022,Everton,1 - 2,Man United
+196,16-10-2022,Man United,0 - 0,Newcastle
+197,19-10-2022,Man United,2 - 0,Tottenham
+198,22-10-2022,Chelsea,1 - 1,Man United
+199,30-10-2022,Man United,1 - 0,West Ham
+200,06-11-2022,Aston Villa,3 - 1,Man United
+201,13-11-2022,Fulham,1 - 2,Man United
+202,06-08-2022,Newcastle,2 - 0,Nott'm Forest
+203,13-08-2022,Brighton,0 - 0,Newcastle
+204,21-08-2022,Newcastle,3 - 3,Man City
+205,28-08-2022,Wolves,1 - 1,Newcastle
+206,31-08-2022,Liverpool,2 - 1,Newcastle
+207,03-09-2022,Newcastle,0 - 0,Crystal Palace
+208,17-09-2022,Newcastle,1 - 1,Bournemouth
+209,01-10-2022,Fulham,1 - 4,Newcastle
+210,08-10-2022,Newcastle,5 - 1,Brentford
+211,16-10-2022,Man United,0 - 0,Newcastle
+212,19-10-2022,Newcastle,1 - 0,Everton
+213,23-10-2022,Tottenham,1 - 2,Newcastle
+214,29-10-2022,Newcastle,4 - 0,Aston Villa
+215,06-11-2022,Southampton,1 - 4,Newcastle
+216,12-11-2022,Newcastle,1 - 0,Chelsea
+217,06-08-2022,Newcastle,2 - 0,Nott'm Forest
+218,14-08-2022,Nott'm Forest,1 - 0,West Ham
+219,20-08-2022,Everton,1 - 1,Nott'm Forest
+220,28-08-2022,Nott'm Forest,0 - 2,Tottenham
+221,31-08-2022,Man City,6 - 0,Nott'm Forest
+222,03-09-2022,Nott'm Forest,2 - 3,Bournemouth
+223,16-09-2022,Nott'm Forest,2 - 3,Fulham
+224,03-10-2022,Leicester,4 - 0,Nott'm Forest
+225,10-10-2022,Nott'm Forest,1 - 1,Aston Villa
+226,15-10-2022,Wolves,1 - 0,Nott'm Forest
+227,18-10-2022,Brighton,0 - 0,Nott'm Forest
+228,22-10-2022,Nott'm Forest,1 - 0,Liverpool
+229,30-10-2022,Arsenal,5 - 0,Nott'm Forest
+230,05-11-2022,Nott'm Forest,2 - 2,Brentford
+231,12-11-2022,Nott'm Forest,1 - 0,Crystal Palace
+232,06-08-2022,Tottenham,4 - 1,Southampton
+233,13-08-2022,Southampton,2 - 2,Leeds
+234,20-08-2022,Leicester,1 - 2,Southampton
+235,27-08-2022,Southampton,0 - 1,Man United
+236,30-08-2022,Southampton,2 - 1,Chelsea
+237,03-09-2022,Wolves,1 - 0,Southampton
+238,16-09-2022,Aston Villa,1 - 0,Southampton
+239,01-10-2022,Southampton,1 - 2,Everton
+240,08-10-2022,Man City,4 - 0,Southampton
+241,16-10-2022,Southampton,1 - 1,West Ham
+242,19-10-2022,Bournemouth,0 - 1,Southampton
+243,23-10-2022,Southampton,1 - 1,Arsenal
+244,29-10-2022,Crystal Palace,1 - 0,Southampton
+245,06-11-2022,Southampton,1 - 4,Newcastle
+246,12-11-2022,Liverpool,3 - 1,Southampton
+247,06-08-2022,Tottenham,4 - 1,Southampton
+248,14-08-2022,Chelsea,2 - 2,Tottenham
+249,20-08-2022,Tottenham,1 - 0,Wolves
+250,28-08-2022,Nott'm Forest,0 - 2,Tottenham
+251,31-08-2022,West Ham,1 - 1,Tottenham
+252,03-09-2022,Tottenham,2 - 1,Fulham
+253,17-09-2022,Tottenham,6 - 2,Leicester
+254,01-10-2022,Arsenal,3 - 1,Tottenham
+255,08-10-2022,Brighton,0 - 1,Tottenham
+256,15-10-2022,Tottenham,2 - 0,Everton
+257,19-10-2022,Man United,2 - 0,Tottenham
+258,23-10-2022,Tottenham,1 - 2,Newcastle
+259,29-10-2022,Bournemouth,2 - 3,Tottenham
+260,06-11-2022,Tottenham,1 - 2,Liverpool
+261,12-11-2022,Tottenham,4 - 3,Leeds
+262,07-08-2022,West Ham,0 - 2,Man City
+263,14-08-2022,Nott'm Forest,1 - 0,West Ham
+264,21-08-2022,West Ham,0 - 2,Brighton
+265,28-08-2022,Aston Villa,0 - 1,West Ham
+266,31-08-2022,West Ham,1 - 1,Tottenham
+267,03-09-2022,Chelsea,2 - 1,West Ham
+268,18-09-2022,Everton,1 - 0,West Ham
+269,01-10-2022,West Ham,2 - 0,Wolves
+270,09-10-2022,West Ham,3 - 1,Fulham
+271,16-10-2022,Southampton,1 - 1,West Ham
+272,19-10-2022,Liverpool,1 - 0,West Ham
+273,24-10-2022,West Ham,2 - 0,Bournemouth
+274,30-10-2022,Man United,1 - 0,West Ham
+275,06-11-2022,West Ham,1 - 2,Crystal Palace
+276,12-11-2022,West Ham,0 - 2,Leicester
+277,06-08-2022,Leeds,2 - 1,Wolves
+278,13-08-2022,Wolves,0 - 0,Fulham
+279,20-08-2022,Tottenham,1 - 0,Wolves
+280,28-08-2022,Wolves,1 - 1,Newcastle
+281,31-08-2022,Bournemouth,0 - 0,Wolves
+282,03-09-2022,Wolves,1 - 0,Southampton
+283,17-09-2022,Wolves,0 - 3,Man City
+284,01-10-2022,West Ham,2 - 0,Wolves
+285,08-10-2022,Chelsea,3 - 0,Wolves
+286,15-10-2022,Wolves,1 - 0,Nott'm Forest
+287,18-10-2022,Crystal Palace,2 - 1,Wolves
+288,23-10-2022,Wolves,0 - 4,Leicester
+289,29-10-2022,Brentford,1 - 1,Wolves
+290,05-11-2022,Wolves,2 - 3,Brighton
+291,12-11-2022,Wolves,0 - 2,Arsenal
